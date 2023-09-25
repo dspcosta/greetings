@@ -5,6 +5,9 @@
 # JetBrains
 .idea
 
+# Local files
+*.json
+
 # Binaries for programs and plugins
 *.exe
 *.exe~
