@@ -10,6 +10,7 @@ var greetingsHello = map[string]string{
 	"english":    "Hello, how are you?",
 	"dutch":      "Hallo, hoe gaat het?",
 	"german":     "Hallo, wie geht es dir?",
+	"italian":    "Ciao, come va?",
 }
 
 // GreetingsOptions Language to be used.
